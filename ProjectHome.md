@@ -1,0 +1,1 @@
+working integration of Qt+PCL+VTK on my environment
